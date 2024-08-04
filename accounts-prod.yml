@@ -4,7 +4,7 @@ build:
 
 # the below property is used to demo @ConfigurationProperties
 accounts:
-  message: "Welcome to Eazy bank related prod APIs"
+  message: "Welcome to Eazy bank related production APIs"
   contactDetails:
     name: "Mohanbabu prod"
     email: "mohan@miml.com"
