@@ -1,0 +1,14 @@
+
+# the below property is used in controller for getBuildVersion and getJavaVersion to demo @Value and Environment
+build:
+  version: "3.0"
+
+# the below property is used to demo @ConfigurationProperties
+cards:
+  message: "Welcome to Eazy bank Cards related prod APIs"
+  contactDetails:
+    name: "Mohanbabu prod"
+    email: "mohan@miml.com"
+  onCallSupport:
+    - (711)552 1237
+    - (711)552 7321
