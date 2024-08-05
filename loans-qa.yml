@@ -6,7 +6,7 @@ build:
 
 # the below property is used to demo @ConfigurationProperties
 loans:
-  message: "Welcome to Eazy bank Loans related quality-assurance APIs"
+  message: "Welcome to Eazy bank Loans related QA-WEBHOOK quality-assurance APIs"
   contactDetails:
     name: "Mohanbabu qa"
     email: "mohan@miml.com"
