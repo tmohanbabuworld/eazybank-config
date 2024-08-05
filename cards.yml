@@ -5,7 +5,7 @@ build:
 
 # the below property is used to demo @ConfigurationProperties
 cards:
-  message: "Welcome to Eazy bank related Cards LOCAL-WEBHOOK config-server-local APIs"
+  message: "Welcome to Eazy bank related Cards LOCAL config-server-local APIs"
   contactDetails:
     name: "Mohanbabu Cards"
     email: "mohan@miml.com"
